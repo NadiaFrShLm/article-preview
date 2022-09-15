@@ -18,7 +18,6 @@ Responsive Article Preview component for 1440px, 375px
 
 ![Image](design/mobile.png)
 
-
 -> active state
 ![Image](design/mobile-active.png)
 
