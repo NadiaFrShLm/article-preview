@@ -25,4 +25,4 @@ Responsive Article Preview component for 1440px, 375px
 ### Links
 
 - Live Site URL:
-  -> article-preview-nadiafr.netlify.app
+  -> https://article-preview-nadiafr.netlify.app
